@@ -1,4 +1,4 @@
-# Desafio_Tecnico# DEsafio Técnico - Soma de Números Divisíveis por 3 ou 5
+# Desafio_Tecnico# Desafio Técnico - Soma de Números Divisíveis por 3 ou 5
 
 Este projeto contém uma função JavaScript que recebe um número inteiro positivo e retorna a soma de todos os valores inteiros divisíveis por 3 ou 5 que são menores que o número passado.
 
