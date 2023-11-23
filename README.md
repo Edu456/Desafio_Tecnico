@@ -8,7 +8,7 @@ Este projeto contém uma função JavaScript que recebe um número inteiro posit
 
 2. Navegue até a pasta do projeto usando `cd Desafio_Tecnico`.
 
-3. Abra o arquivo `index.js` (ou o nome do arquivo que contém a função) em seu editor de código favorito.
+3. Abra o arquivo `index.js` (ou o nome do arquivo que contém a função) em seu editor de código.
 
 4. No terminal, execute o arquivo usando Node.js com o comando `node index.js`.
 
