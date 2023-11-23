@@ -3,7 +3,7 @@ function somatorio(numero) {
 
   for (let i = 1; i < numero; i++) { //inicio de um loop for que vai de 1 ate o numero fornecido
     if (i % 3 === 0 || i % 5 === 0) { // Verifica se i é divisivel por 3 ou 5
-      soma += i; //se for divisivel adiciona o numero ao somatorio
+      soma += i; //se for divisivel adiciona o numero a variavel soma
     }
   }
 
